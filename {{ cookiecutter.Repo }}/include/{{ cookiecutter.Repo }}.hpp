@@ -1,9 +1,9 @@
-#ifndef {{cookiecutter.Repo|lower}}_H
-#define {{cookiecutter.Repo|lower}}_H
+#ifndef {{cookiecutter.Repo|upper}}_H
+#define {{cookiecutter.Repo|upper}}_H
 
 namespace {{cookiecutter.Repo|lower}} {
 
 
 }
 
-#endif 	// {{cookiecutter.Repo|lower}}_H
+#endif 	// {{cookiecutter.Repo|upper}}_H
