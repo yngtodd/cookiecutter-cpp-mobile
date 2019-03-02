@@ -8,7 +8,7 @@ A [cookiecutter](https://github.com/audreyr/cookiecutter) template to easily sta
 Imagine that you are working on a mobile app, game, etc., and you want to reuse the core logic from a cross-platform C++ library that can be later consumed from both Android and iOS.
 You just enter the following terminal command:
 
-    $ cookiecutter https://github.com/diegum/cookiecutter-cpp-mobile.git
+    $ cookiecutter https://github.com/yngtodd/cookiecutter-cpp-mobile.git
 
     Repo [my-cpp-lib]: amazing-app-core
     Brief_description [What's this C++ library for?]: This repo contains the core logic of my amazing app
